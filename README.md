@@ -1,27 +1,25 @@
-# DesafioDeProjeto06Buzzfeed
+<h1 align="center"> Clone de Quizz Buzzfeed </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+  <img alt="quizz Buzzfeed - você seria herói ou vilão?" src=".github/project.png" width="100%">
+</p>
 
-## Code scaffolding
+## 🚀 Tecnologias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Build
+- HTML e CSS
+- JavaScript, Typescript e JSON
+- [Node e NPM](https://nodejs.org/)
+- [Angular](https://angular.io/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 💻 Projeto
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Desenvolvido a partir de aula prática para o Bootcam NTT Data Diversidade em Tech, disponibilizado através da [Dio.\_](https://www.dio.me/), este projeto simula os famosos testes que a empresa norte-americana de mídia de notícias BuzzFeed disponibiliza em suas plataformas e redes sociais. Neste teste, é possível selecionar as suas alternativas preferidas e receber uma resposta se você seria um vilão ou herói!
